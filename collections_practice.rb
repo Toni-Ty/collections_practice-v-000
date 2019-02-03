@@ -70,4 +70,5 @@ def sum_array(array)
     sum = sum + num
   end
   sum
+end
     
