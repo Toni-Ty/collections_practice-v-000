@@ -63,6 +63,3 @@ def sum_array(array)
   sum = 0
   array.inject { |sum, n| sum + n }
 end
-
-
-  
