@@ -73,7 +73,7 @@ end
 #   sum
 # end
 
-def adds_s(array)
+def add_s(array)
   array.collect do |word|
     if array[1] == word
       word
@@ -82,3 +82,4 @@ def adds_s(array)
     end
   end
 end
+
