@@ -82,4 +82,3 @@ def adds_s(array)
     end
   end
 end
-
